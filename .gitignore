@@ -1,0 +1,12 @@
+.DS_Store
+build/
+dist/
+*.log
+.swiftpm/
+
+# Personal media must never enter the source repository.
+*.mp3
+*.flac
+*.wav
+*.m4a
+*.lrc
